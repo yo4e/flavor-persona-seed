@@ -410,3 +410,9 @@ adapter
 そして、その選択の間に残った余白を、モデルや世界が埋める。
 
 That is the experiment.
+
+---
+
+## License
+
+Flavor Persona Seed is available under the [MIT License](LICENSE). The project documentation, experimental design, and future reusable implementation may be used, modified, and redistributed under the terms of that license.
